@@ -1,0 +1,11 @@
+Model Information:
+* title:	Macintosh Classic II
+* source:	https://sketchfab.com/3d-models/macintosh-classic-ii-44d8f5884b50410697516fa172c9e23d
+* author:	robertramsay (https://sketchfab.com/robertramsay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Macintosh Classic II" (https://sketchfab.com/3d-models/macintosh-classic-ii-44d8f5884b50410697516fa172c9e23d) by robertramsay (https://sketchfab.com/robertramsay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

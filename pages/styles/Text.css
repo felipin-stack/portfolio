@@ -1,0 +1,93 @@
+.principal {
+    color: white;
+    position: absolute;
+  }
+h2{
+    margin-left:-675px;
+    position: absolute;
+}
+#name1{
+    margin-left:-675px;
+    position: absolute;
+    margin-top:50px;
+}
+#name2{
+    color:rgb(6, 228, 6);
+    position: absolute;
+    margin-top:50px;
+    margin-left:-530px;
+}
+#text3{
+    position: absolute;
+    margin-top:90px;
+    display: flex;
+    flex-direction: row;
+    margin-left:-675px;
+    margin-top:104px;
+}
+#text4{
+    margin-left:-680px;
+    position: absolute;
+    margin-top:165px;
+}
+
+.cursor {
+    display: inline-block;
+    width: 30px; /* Largura da barrinha */
+    height:10px;
+    background-color: rgb(6, 228, 6); /* Cor da barra (pode ser alterada para qualquer cor) */
+    animation: blink 1s infinite; /* Animação de piscar */
+    position: absolute;
+    margin-left:-383px;
+    margin-top:90px;
+  }
+  
+  /* Animação de piscar da barrinha */
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+    
+  }
+  .container{
+    position: absolute;
+    margin-top: -400px;
+    margin-left:-550px;
+  }
+  .perfil{
+    position: absolute;
+    width:46px;
+    height:43px;
+    margin-top:-270px;
+    margin-left:-490px;
+  }
+  .spring{
+    position: absolute;
+    width:46px;
+    height:43px;
+    margin-top:-270px;
+    margin-left:-790px;
+  }
+
+   .SQL{
+    position: absolute;
+    width:46px;
+    height:43px;
+    margin-top:-265px;
+    margin-left:-690px;
+  }
+
+  
+   .python{
+    position: absolute;
+    width:46px;
+    height:43px;
+    margin-top:-270px;
+    margin-left:-590px;
+  }
