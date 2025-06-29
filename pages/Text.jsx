@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import './Text.css';
+import './styles/Text.css';
 import Threejs from './3d';
 
 function Text() {

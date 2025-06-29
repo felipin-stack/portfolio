@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './Header.css'
+import './styles/Header.css'
 import { Link } from 'react-router-dom';
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
