@@ -5,10 +5,10 @@ import Threejs from './3d';
 function Text() {
   return (
     <>
-     <img src ="./public/images/react.png" alt="Perfil" className="perfil" />
-     <img src ="./public/images/spring-boot-logo.png" alt="Spring" className="spring" />
-      <img src ="./public/images/SQL.png" alt="SQL" className="SQL" />
-      <img src ="./public/images/python-logo.png" alt="python" className="python" />
+     <img src ="/images/react.png" alt="Perfil" className="perfil" />
+     <img src ="/images/spring-boot-logo.png" alt="Spring" className="spring" />
+      <img src ="/images/SQL.png" alt="SQL" className="SQL" />
+      <img src ="/images/python-logo.png" alt="python" className="python" />
       <div className="principal">
         <h2>Olá,</h2>
         <h1 id="name1">Sou o </h1>
